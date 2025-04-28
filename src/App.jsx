@@ -4,6 +4,8 @@ import Countdown from './components/Countdown'
 import Invitation from './components/Invitation'
 import Gallery from './components/Gallery'
 import Location from './components/Location'
+import GuestBook from './components/GuestBook'
+import AccountInfo from './components/AcountInfo'
 import './App.css'
 
 function App() {
@@ -14,6 +16,8 @@ function App() {
       <Invitation/>
       <Gallery/>
       <Location/>
+      <GuestBook/>
+      <AccountInfo/>
      </div>
   )
 }
