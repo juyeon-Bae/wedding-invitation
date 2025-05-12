@@ -16,7 +16,7 @@ function App() {
       <Countdown/>
       <Invitation/>
       <Gallery/>
-      <Location/>
+      {/* <Location/> */}
       <GuestBook/>
       <AccountInfo/>
       <RSVP/>
