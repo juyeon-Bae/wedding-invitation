@@ -6,6 +6,7 @@ import Gallery from './components/Gallery'
 import Location from './components/Location'
 import GuestBook from './components/GuestBook'
 import AccountInfo from './components/AcountInfo'
+import RSVP from './components/RSVP'
 import './App.css'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Location/>
       <GuestBook/>
       <AccountInfo/>
+      <RSVP/>
      </div>
   )
 }
